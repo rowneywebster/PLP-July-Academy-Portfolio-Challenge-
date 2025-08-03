@@ -98,5 +98,19 @@ Deploy to Netlify:
 -  Rowney Ouma – oumarowney@gmail.com | +254 726 884 643
 
 -  Hazeline Odimo – odimohazeline@gmail.com | +254 706 182 474
+## 📄 License
+Licensed under the MIT License – see the LICENSE file for details.
+## 🙏 Acknowledgments
+- Web3Forms for form handling.
+
+- Netlify for free hosting.
+
+- Font Awesome for icons.
+
+- Google Fonts for typography.
+
+- 🔗 Visit: Live Portfolio: [imaginative-pasca-ce9472.netlify.app](https://imaginative-pasca-ce9472.netlify.app/)
+
+
 
 
